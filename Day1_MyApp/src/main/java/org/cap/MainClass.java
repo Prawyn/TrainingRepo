@@ -9,6 +9,7 @@ public class MainClass {
 	public static void greetings(){
 		SlaesClass obj = new SlaesClass();
 		System.out.println("Hello My First App");
+		System.out.println("Good Afternoon!");
 		obj.display();
 	}
 
